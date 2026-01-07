@@ -1,1 +1,1 @@
-# Team-ModelMinds---Data-Mining-Assignments
+# Team ModelMinds - Data Mining Assignments

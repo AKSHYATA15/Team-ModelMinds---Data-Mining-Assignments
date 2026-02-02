@@ -1,0 +1,6 @@
+scanning processed/yeast_gspan.txt with 64110 graphs
+scanning done
+-------------------System Performance------------------
+			6.05731sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------

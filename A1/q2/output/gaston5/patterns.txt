@@ -1,0 +1,3 @@
+TOTAL:
+Frequent cyclic graphs: 0 real trees: 0 paths: 0 total: 0
+Approximate total runtime: 0.297474s

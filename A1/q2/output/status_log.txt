@@ -1,0 +1,15 @@
+gSpan @ 5% : OK
+FSG @ 5% : TIMEOUT
+Gaston @ 5% : OK
+gSpan @ 10% : OK
+FSG @ 10% : TIMEOUT
+Gaston @ 10% : OK
+gSpan @ 25% : OK
+FSG @ 25% : OK
+Gaston @ 25% : OK
+gSpan @ 50% : OK
+FSG @ 50% : OK
+Gaston @ 50% : OK
+gSpan @ 95% : OK
+FSG @ 95% : OK
+Gaston @ 95% : OK

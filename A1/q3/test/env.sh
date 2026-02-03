@@ -7,6 +7,5 @@ source graph_env/bin/activate
 
 # Install core dependencies
 pip install numpy
-pip install scipy
 
 echo "Environment ready."
